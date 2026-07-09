@@ -126,6 +126,10 @@ down for lower frame rates or fast-moving cameras.
 - Letterbox/image preprocessing — a few lines, but out of scope here to
   keep this dependency-free
 
+## Author
+
+Developed by [Farhan Raza](https://github.com/SyedFarhan110) — [LinkedIn](https://www.linkedin.com/in/farhan-raza1)
+
 ## License
 
 MIT
